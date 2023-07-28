@@ -27,7 +27,7 @@ toc::[]
 |🌅 Logo
 |⭐ Metrics
 |🔍 Insights
-|🆕 Install
+|🆕 Start
 
 // ===========================
 //            MuseScore
@@ -56,7 +56,7 @@ link:https://formulae.brew.sh/cask/musescore[🍺]
 |🌅 Logo
 |⭐ Metrics
 |🔍 Insights
-|🆕 Install
+|🆕 Start
 
 // ===========================
 //            Element
@@ -101,7 +101,7 @@ link:https://formulae.brew.sh/cask/signal[🍺]
 |🌅 Logo
 |⭐ Metrics
 |🔍 Insights
-|🆕 Install
+|🆕 Start
 
 // ===========================
 //            Darktable
@@ -216,7 +216,7 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 |🌅 Logo
 |⭐ Metrics
 |🔍 Insights
-|🆕 Install
+|🆕 Start
 
 // ===========================
 //            LibreOffice
@@ -247,7 +247,7 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 |🌅 Logo
 |⭐ Metrics
 |🔍 Insights
-|🆕 Install
+|🆕 Start
 
 // ===========================
 //            Greenshot

@@ -25,7 +25,7 @@ toc::[]
 
 |ℹ️ Name
 |🌅 Logo
-|⭐ Stars
+|⭐ Metrics
 |🔍 Insights
 |🆕 Install
 
@@ -54,7 +54,7 @@ link:https://formulae.brew.sh/cask/musescore[🍺]
 
 |ℹ️ Name
 |🌅 Logo
-|⭐ Stars
+|⭐ Metrics
 |🔍 Insights
 |🆕 Install
 
@@ -99,7 +99,7 @@ link:https://formulae.brew.sh/cask/signal[🍺]
 
 |ℹ️ Name
 |🌅 Logo
-|⭐ Stars
+|⭐ Metrics
 |🔍 Insights
 |🆕 Install
 
@@ -214,7 +214,7 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 
 |ℹ️ Name
 |🌅 Logo
-|⭐ Stars
+|⭐ Metrics
 |🔍 Insights
 |🆕 Install
 
@@ -245,7 +245,7 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 
 |ℹ️ Name
 |🌅 Logo
-|⭐ Stars
+|⭐ Metrics
 |🔍 Insights
 |🆕 Install
 

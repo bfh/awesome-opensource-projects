@@ -279,6 +279,24 @@ https://github.com/libreoffice/
 link:https://formulae.brew.sh/cask/libreoffice[🍺]
 // ===========================
 
+// ===========================
+//            Thunderbird
+// ===========================
+// ℹ️
+|link:https://www.thunderbird.net[Thunderbird]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thunderbird_2023_icon.png/240px-Thunderbird_2023_icon.png[Thunderbird,64]
+// ⭐
+|image:https://img.shields.io/github/stars/mozilla/releases-comm-central?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/2141[image:https://bestpractices.coreinfrastructure.org/projects/2141/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://hg.mozilla.org/comm-central/
+|link:https://community.chocolatey.org/packages/thunderbird[🍫]
+
+link:https://formulae.brew.sh/cask/thunderbird[🍺]
+// ===========================
+
 |===
 
 === Recording

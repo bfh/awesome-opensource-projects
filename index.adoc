@@ -207,6 +207,37 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 
 |===
 
+=== Secrets-Management
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+
+|ℹ️ Name
+|🌅 Logo
+|⭐ Metrics
+|🔍 Insights
+|🆕 Start
+
+// ===========================
+//            KeePassXC
+// ===========================
+// ℹ️
+|link:https://keepassxc.org[KeePassXC]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/240px-KeePassXC.svg.png[KeePassXC,64]
+// ⭐
+|image:https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/6326[image:https://bestpractices.coreinfrastructure.org/projects/6326/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://github.com/keepassxreboot/keepassxc/
+|link:https://community.chocolatey.org/packages/keepassxc[🍫]
+
+link:https://formulae.brew.sh/cask/keepassxc[🍺]
+// ===========================
+
+|===
+
 === Office
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]

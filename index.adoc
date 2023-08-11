@@ -229,7 +229,7 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 |image:https://img.shields.io/github/stars/chocolatey/choco?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/chocolatey/choco/
-|🍫 https://chocolatey.org/install
+|link:https://chocolatey.org/install[📦]
 // ===========================
 
 // ===========================
@@ -245,7 +245,7 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/5609[image:https://bestpractices.coreinfrastructure.org/projects/5609/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/homebrew/brew/
-|🍺 https://brew.sh/#install
+|link:https://brew.sh/#install[📦]
 // ===========================
 
 |===

@@ -75,6 +75,22 @@ link:https://formulae.brew.sh/cask/element[🍺]
 // ===========================
 
 // ===========================
+//            Jitsi
+// ===========================
+// ℹ️
+|link:https://jitsi.org[Jitsi]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/9/9f/IconaJitsi_square.png[Jitsi,64]
+// ⭐
+|image:https://img.shields.io/github/stars/jitsi?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/jitsi
+|link:https://community.chocolatey.org/packages/jitsi[🍫]
+
+link:https://formulae.brew.sh/cask/jitsi[🍺]
+// ===========================
+
+// ===========================
 //            Signal
 // ===========================
 // ℹ️

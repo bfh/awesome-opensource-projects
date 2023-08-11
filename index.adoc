@@ -18,7 +18,7 @@ toc::[]
 
 == Software
 
-=== Audio
+=== Audio & Video
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]
 |===
@@ -43,6 +43,24 @@ toc::[]
 |link:https://community.chocolatey.org/packages/musescore[🍫]
 
 link:https://formulae.brew.sh/cask/musescore[🍺]
+// ===========================
+
+// ===========================
+//            VLC
+// ===========================
+// ℹ️
+|link:https://videolan.org[VLC]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg[VLC,64]
+// ⭐
+|image:https://img.shields.io/github/stars/videolan?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/234[image:https://bestpractices.coreinfrastructure.org/projects/234/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://github.com/videolan/
+|link:https://community.chocolatey.org/packages/vlc[🍫]
+
+link:https://formulae.brew.sh/cask/vlc[🍺]
 // ===========================
 
 |===

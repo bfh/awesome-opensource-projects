@@ -417,6 +417,24 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 // ===========================
 
 // ===========================
+//            Nextcloud
+// ===========================
+// ℹ️
+|link:https://nextcloud.org[Nextcloud]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg[Nextcloud,64]
+// ⭐
+|image:https://img.shields.io/github/stars/nextcloud?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/209[image:https://bestpractices.coreinfrastructure.org/projects/209/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://github.com/nextcloud/
+|link:https://community.chocolatey.org/packages/nextcloud-client[🍫]
+
+link:https://formulae.brew.sh/cask/nextcloud[🍺]
+// ===========================
+
+// ===========================
 //            Thunderbird
 // ===========================
 // ℹ️

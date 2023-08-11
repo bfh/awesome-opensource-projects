@@ -140,6 +140,22 @@ link:https://formulae.brew.sh/cask/drawio[🍺]
 // ===========================
 
 // ===========================
+//            Freeplane
+// ===========================
+// ℹ️
+|link:https://freeplane.org[Freeplane]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/c/ce/Freeplane-icon-2022.svg[Freeplane,64]
+// ⭐
+|image:https://img.shields.io/github/stars/freeplane/freeplane?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/freeplane/freeplane
+|link:https://community.chocolatey.org/packages/freeplane[🍫]
+
+link:https://formulae.brew.sh/cask/freeplane[🍺]
+// ===========================
+
+// ===========================
 //            GIMP
 // ===========================
 // ℹ️

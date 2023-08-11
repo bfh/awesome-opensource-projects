@@ -239,6 +239,22 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 |link:https://community.chocolatey.org/packages/RawTherapee[🍫]
 // ===========================
 
+// ===========================
+//            Scribus
+// ===========================
+// ℹ️
+|link:https://www.scribus.net[Scribus]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/8/85/Scribus_logo.svg[Scribus,64]
+// ⭐
+|image:https://img.shields.io/github/stars/scribusproject/scribus?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/scribusproject/scribus
+|link:https://community.chocolatey.org/packages/scribus[🍫]
+
+link:https://formulae.brew.sh/cask/scribus[🍺]
+// ===========================
+
 |===
 
 === Package Manager

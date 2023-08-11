@@ -59,6 +59,20 @@ link:https://formulae.brew.sh/cask/musescore[🍺]
 |🆕 Start
 
 // ===========================
+//            BigBlueButton
+// ===========================
+// ℹ️
+|link:http://bigbluebutton.org[BigBlueButton]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/9/94/BigBlueButton_icon.svg[BigBlueButton,64]
+// ⭐
+|image:https://img.shields.io/github/stars/bigbluebutton?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/bigbluebutton
+|link:https://github.com/bigbluebutton/bbb-install[📦]
+// ===========================
+
+// ===========================
 //            Element
 // ===========================
 // ℹ️

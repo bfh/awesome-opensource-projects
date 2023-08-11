@@ -482,6 +482,20 @@ link:https://formulae.brew.sh/cask/nextcloud[🍺]
 // ===========================
 
 // ===========================
+//            Notepad++
+// ===========================
+// ℹ️
+|link:https://notepad-plus-plus.org[Notepad++]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png[Notepad++,64]
+// ⭐
+|image:https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/notepad-plus-plus/notepad-plus-plus/
+|link:https://community.chocolatey.org/packages/notepadplusplus[🍫]
+// ===========================
+
+// ===========================
 //            Thunderbird
 // ===========================
 // ℹ️

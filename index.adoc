@@ -77,6 +77,24 @@ link:https://formulae.brew.sh/cask/vlc[🍺]
 |🆕 Start
 
 // ===========================
+//            Chromium
+// ===========================
+// ℹ️
+|link:https://www.chromium.org[Chromium]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/f/fe/Chromium_Material_Icon.svg[Chromium,64]
+// ⭐
+|image:https://img.shields.io/github/stars/chromium/chromium?style=social[GitHub Repo stars]
+// 🔍
+|link:https://bestpractices.coreinfrastructure.org/en/projects/94[image:https://bestpractices.coreinfrastructure.org/projects/94/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
+
+https://github.com/chromium/chromium/
+|link:https://community.chocolatey.org/packages/chromium[🍫]
+
+link:https://formulae.brew.sh/cask/chromium[🍺]
+// ===========================
+
+// ===========================
 //            Firefox
 // ===========================
 // ℹ️

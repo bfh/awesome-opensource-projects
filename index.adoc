@@ -250,6 +250,33 @@ https://github.com/homebrew/brew/
 
 |===
 
+=== Project Management
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+
+|ℹ️ Name
+|🌅 Logo
+|⭐ Metrics
+|🔍 Insights
+|🆕 Start
+
+// ===========================
+//            OpenProject
+// ===========================
+// ℹ️
+|link:https://www.openproject.org[OpenProject]
+// 🌅
+|image:https://www.openproject.org/assets/images/favicons/apple-touch-icon-504f34a4.png[OpenProject,64]
+// ⭐
+|image:https://img.shields.io/github/stars/opf/openproject?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/opf/openproject/
+|link:https://community.chocolatey.org/packages/openproject[🍫]
+// ===========================
+
+|===
+
 === Office
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]

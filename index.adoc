@@ -65,6 +65,35 @@ link:https://formulae.brew.sh/cask/vlc[🍺]
 
 |===
 
+=== Browser
+
+[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+|===
+
+|ℹ️ Name
+|🌅 Logo
+|⭐ Metrics
+|🔍 Insights
+|🆕 Start
+
+// ===========================
+//            Firefox
+// ===========================
+// ℹ️
+|link:https://firefox.com[Firefox]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg[Firefox,64]
+// ⭐
+|image:https://img.shields.io/github/stars/mozilla/gecko-dev?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/mozilla/gecko-dev/
+|link:https://community.chocolatey.org/packages/firefox[🍫]
+
+link:https://formulae.brew.sh/cask/firefox[🍺]
+// ===========================
+
+|===
+
 === Communication
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]

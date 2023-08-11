@@ -104,24 +104,6 @@ link:https://formulae.brew.sh/cask/signal[🍺]
 |🆕 Start
 
 // ===========================
-//            diagrams.net
-// ===========================
-// ℹ️
-|link:https://www.diagrams.net[diagrams.net]
-// 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg[diagrams.net,64]
-// ⭐
-|image:https://img.shields.io/github/stars/jgraph?style=social[GitHub Repo stars]
-// 🔍
-|https://github.com/jgraph/
-|link:https://github.com/jgraph/drawio#running[📦]
-
-link:https://community.chocolatey.org/packages/drawio[🍫]
-
-link:https://formulae.brew.sh/cask/drawio[🍺]
-// ===========================
-
-// ===========================
 //            Darktable
 // ===========================
 // ℹ️
@@ -137,6 +119,24 @@ https://github.com/darktable-org/darktable
 |link:https://community.chocolatey.org/packages/darktable[🍫]
 
 link:https://formulae.brew.sh/cask/darktable[🍺]
+// ===========================
+
+// ===========================
+//            diagrams.net
+// ===========================
+// ℹ️
+|link:https://www.diagrams.net[diagrams.net]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg[diagrams.net,64]
+// ⭐
+|image:https://img.shields.io/github/stars/jgraph?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/jgraph/
+|link:https://github.com/jgraph/drawio#running[📦]
+
+link:https://community.chocolatey.org/packages/drawio[🍫]
+
+link:https://formulae.brew.sh/cask/drawio[🍺]
 // ===========================
 
 // ===========================

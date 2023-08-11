@@ -262,6 +262,20 @@ https://github.com/homebrew/brew/
 |🆕 Start
 
 // ===========================
+//            GitLab
+// ===========================
+// ℹ️
+|link:https://gitlab.com[GitLab]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg[GitLab,64]
+// ⭐
+|image:https://img.shields.io/gitlab/stars/gitlab-org/gitlab?gitlab_url=https%3A%2F%2Fgitlab.com&style=social[GitLab stars]
+// 🔍
+|https://gitlab.com/gitlab-org/gitlab
+|link:https://about.gitlab.com/install/[📦]
+// ===========================
+
+// ===========================
 //            OpenProject
 // ===========================
 // ℹ️

@@ -602,6 +602,22 @@ link:https://formulae.brew.sh/cask/obs[🍺]
 |🆕 Start
 
 // ===========================
+//            Bitwarden
+// ===========================
+// ℹ️
+|link:https://bitwarden.com[Bitwarden]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg[Bitwarden,64]
+// ⭐
+|image:https://img.shields.io/github/stars/bitwarden?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/bitwarden/
+|link:https://community.chocolatey.org/packages/bitwarden[🍫]
+
+link:https://formulae.brew.sh/cask/bitwarden[🍺]
+// ===========================
+
+// ===========================
 //            KeePassXC
 // ===========================
 // ℹ️

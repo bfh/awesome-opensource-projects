@@ -262,6 +262,22 @@ https://github.com/homebrew/brew/
 |🆕 Start
 
 // ===========================
+//            Joplin
+// ===========================
+// ℹ️
+|link:https://joplinapp.org[Joplin]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/en/0/08/Joplin-icon.svg[Joplin,64]
+// ⭐
+|image:https://img.shields.io/github/stars/laurent22/joplin?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/laurent22/joplin
+|link:https://community.chocolatey.org/packages/joplin[🍫]
+
+link:https://formulae.brew.sh/cask/joplin[🍺]
+// ===========================
+
+// ===========================
 //            LibreOffice
 // ===========================
 // ℹ️

@@ -667,6 +667,21 @@ link:https://formulae.brew.sh/cask/obs[🍺]
 |link:https://community.chocolatey.org/packages/sharex[🍫]
 // ===========================
 
+// ===========================
+//            vokoscreenNG
+// ===========================
+// ℹ️
+|link:https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html[vokoscreenNG]
+// 🌅
+|image:https://linuxecke.volkoh.de/vokoscreen/vokoscreen.png[vokoscreenNG,64]
+// ⭐
+|image:https://img.shields.io/github/stars/vkohaupt/vokoscreenNG?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/vkohaupt/vokoscreenNG
+|link:https://linuxecke.volkoh.de/vokoscreen/vokoscreen-download.html[🪟] +
+https://flathub.org/de/apps/com.github.vkohaupt.vokoscreenNG[🐧]
+// ===========================
+
 |===
 
 === Secrets Management

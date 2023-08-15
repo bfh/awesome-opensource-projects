@@ -78,6 +78,22 @@ link:https://formulae.brew.sh/cask/musescore[🍺]
 // ===========================
 
 // ===========================
+//            OpenShot 
+// ===========================
+// ℹ️
+|link:https://www.openshot.org[OpenShot]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/1/17/OpenShot_logo_%282016%29.svg[OpenShot,64]
+// ⭐
+|image:https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/OpenShot/openshot-qt
+|link:https://community.chocolatey.org/packages/OpenShot[🍫] +
+link:https://flathub.org/apps/org.openshot.OpenShot[🐧] +
+link:https://formulae.brew.sh/cask/openshot-video-editor[🍺]
+// ===========================
+
+// ===========================
 //            VLC
 // ===========================
 // ℹ️

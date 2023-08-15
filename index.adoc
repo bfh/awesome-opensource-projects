@@ -46,6 +46,22 @@ https://formulae.brew.sh/cask/audacity[🍺]
 // ===========================
 
 // ===========================
+//            Avidemux
+// ===========================
+// ℹ️
+|link:https://avidemux.sourceforge.net[Avidemux]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/d/d9/Avidemux-logo.png[Avidemux,64]
+// ⭐
+|image:https://img.shields.io/github/stars/mean00/avidemux2?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/mean00/avidemux2
+|link:https://community.chocolatey.org/packages/avidemux[🍫] +
+https://flathub.org/apps/org.avidemux.Avidemux[🐧] +
+https://formulae.brew.sh/cask/avidemux[🍺]
+// ===========================
+
+// ===========================
 //            HandBrake
 // ===========================
 // ℹ️

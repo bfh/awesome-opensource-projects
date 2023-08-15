@@ -46,6 +46,22 @@ https://formulae.brew.sh/cask/audacity[🍺]
 // ===========================
 
 // ===========================
+//            HandBrake
+// ===========================
+// ℹ️
+|link:https://handbrake.fr/[HandBrake]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/d/d9/HandBrake_Icon.png[HandBrake,64]
+// ⭐
+|image:https://img.shields.io/github/stars/HandBrake/HandBrake?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/HandBrake/HandBrake
+|https://community.chocolatey.org/packages/handbrake[🍫] +
+link:https://flathub.org/apps/fr.handbrake.ghb[🐧] +
+link:https://formulae.brew.sh/formula/handbrake[🍺]
+// ===========================
+
+// ===========================
 //            Kdenlive
 // ===========================
 // ℹ️

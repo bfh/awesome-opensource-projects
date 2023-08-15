@@ -40,8 +40,8 @@ toc::[]
 |image:https://img.shields.io/github/stars/musescore?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/musescore/
-|link:https://community.chocolatey.org/packages/musescore[🍫]
-
+|link:https://community.chocolatey.org/packages/musescore[🍫] +
+link:https://flathub.org/apps/org.musescore.MuseScore[🐧] +
 link:https://formulae.brew.sh/cask/musescore[🍺]
 // ===========================
 
@@ -58,8 +58,8 @@ link:https://formulae.brew.sh/cask/musescore[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/234[image:https://bestpractices.coreinfrastructure.org/projects/234/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/videolan/
-|link:https://community.chocolatey.org/packages/vlc[🍫]
-
+|link:https://community.chocolatey.org/packages/vlc[🍫] +
+link:https://flathub.org/apps/org.videolan.VLC[🐧] +
 link:https://formulae.brew.sh/cask/vlc[🍺]
 // ===========================
 
@@ -89,8 +89,8 @@ link:https://formulae.brew.sh/cask/vlc[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/94[image:https://bestpractices.coreinfrastructure.org/projects/94/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/chromium/chromium/
-|link:https://community.chocolatey.org/packages/chromium[🍫]
-
+|link:https://community.chocolatey.org/packages/chromium[🍫] +
+link:https://flathub.org/apps/org.chromium.Chromium[🐧] +
 link:https://formulae.brew.sh/cask/chromium[🍺]
 // ===========================
 
@@ -105,8 +105,8 @@ link:https://formulae.brew.sh/cask/chromium[🍺]
 |image:https://img.shields.io/github/stars/mozilla/gecko-dev?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/mozilla/gecko-dev/
-|link:https://community.chocolatey.org/packages/firefox[🍫]
-
+|link:https://community.chocolatey.org/packages/firefox[🍫] +
+link:https://flathub.org/apps/org.mozilla.firefox[🐧] +
 link:https://formulae.brew.sh/cask/firefox[🍺]
 // ===========================
 
@@ -148,8 +148,8 @@ link:https://formulae.brew.sh/cask/firefox[🍺]
 |image:https://img.shields.io/github/stars/vector-im?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/vector-im
-|link:https://community.chocolatey.org/packages/element-desktop[🍫]
-
+|link:https://community.chocolatey.org/packages/element-desktop[🍫] +
+link:https://flathub.org/apps/im.riot.Riot[🐧] +
 link:https://formulae.brew.sh/cask/element[🍺]
 // ===========================
 
@@ -164,8 +164,8 @@ link:https://formulae.brew.sh/cask/element[🍺]
 |image:https://img.shields.io/github/stars/jitsi?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/jitsi
-|link:https://community.chocolatey.org/packages/jitsi[🍫]
-
+|link:https://community.chocolatey.org/packages/jitsi[🍫] +
+link:https://flathub.org/apps/org.jitsi.jitsi-meet[🐧] +
 link:https://formulae.brew.sh/cask/jitsi[🍺]
 // ===========================
 
@@ -180,8 +180,8 @@ link:https://formulae.brew.sh/cask/jitsi[🍺]
 |image:https://img.shields.io/github/stars/signalapp?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/signalapp/
-|link:https://community.chocolatey.org/packages/signal[🍫]
-
+|link:https://community.chocolatey.org/packages/signal[🍫] +
+link:https://flathub.org/apps/org.signal.Signal[🐧] +
 link:https://formulae.brew.sh/cask/signal[🍺]
 // ===========================
 
@@ -211,8 +211,8 @@ link:https://formulae.brew.sh/cask/signal[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/470[image:https://bestpractices.coreinfrastructure.org/projects/470/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/darktable-org/darktable
-|link:https://community.chocolatey.org/packages/darktable[🍫]
-
+|link:https://community.chocolatey.org/packages/darktable[🍫] +
+link:https://flathub.org/apps/org.darktable.Darktable[🐧] +
 link:https://formulae.brew.sh/cask/darktable[🍺]
 // ===========================
 
@@ -227,10 +227,9 @@ link:https://formulae.brew.sh/cask/darktable[🍺]
 |image:https://img.shields.io/github/stars/jgraph?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/jgraph/
-|link:https://github.com/jgraph/drawio#running[📦]
-
-link:https://community.chocolatey.org/packages/drawio[🍫]
-
+|link:https://github.com/jgraph/drawio#running[📦] +
+link:https://community.chocolatey.org/packages/drawio[🍫] +
+link:https://flathub.org/apps/com.jgraph.drawio.desktop[🐧] +
 link:https://formulae.brew.sh/cask/drawio[🍺]
 // ===========================
 
@@ -245,8 +244,8 @@ link:https://formulae.brew.sh/cask/drawio[🍺]
 |image:https://img.shields.io/github/stars/freeplane/freeplane?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/freeplane/freeplane
-|link:https://community.chocolatey.org/packages/freeplane[🍫]
-
+|link:https://community.chocolatey.org/packages/freeplane[🍫] +
+link:https://flathub.org/apps/org.freeplane.App[🐧] +
 link:https://formulae.brew.sh/cask/freeplane[🍺]
 // ===========================
 
@@ -265,8 +264,8 @@ image:https://img.shields.io/github/stars/GNOME/gimp?style=social[GitHub Repo st
 |link:https://bestpractices.coreinfrastructure.org/en/projects/437[image:https://bestpractices.coreinfrastructure.org/projects/437/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://gitlab.gnome.org/GNOME/gimp
-|link:https://community.chocolatey.org/packages/gimp[🍫]
-
+|link:https://community.chocolatey.org/packages/gimp[🍫] +
+link:https://flathub.org/apps/org.gimp.GIMP[🐧] +
 link:https://formulae.brew.sh/cask/gimp[🍺]
 // ===========================
 
@@ -283,8 +282,8 @@ link:https://formulae.brew.sh/cask/gimp[🍺]
 image:https://img.shields.io/github/stars/inkscape/inkscape?style=social[GitHub Repo stars]
 // 🔍
 |https://gitlab.com/inkscape/inkscape
-|link:https://community.chocolatey.org/packages/inkscape[🍫]
-
+|link:https://community.chocolatey.org/packages/inkscape[🍫] +
+link:https://flathub.org/apps/org.inkscape.Inkscape[🐧] +
 link:https://formulae.brew.sh/cask/inkscape[🍺]
 // ===========================
 
@@ -301,8 +300,8 @@ link:https://formulae.brew.sh/cask/inkscape[🍺]
 image:https://img.shields.io/github/stars/KDE/krita?style=social[GitHub Repo stars]
 // 🔍
 |https://invent.kde.org/graphics/krita
-|link:https://community.chocolatey.org/packages/krita[🍫]
-
+|link:https://community.chocolatey.org/packages/krita[🍫] +
+link:https://flathub.org/apps/org.kde.krita[🐧] +
 link:https://formulae.brew.sh/cask/krita[🍺]
 // ===========================
 
@@ -331,7 +330,8 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 |image:https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/Beep6581/RawTherapee
-|link:https://community.chocolatey.org/packages/RawTherapee[🍫]
+|link:https://community.chocolatey.org/packages/RawTherapee[🍫] +
+link:https://flathub.org/apps/com.rawtherapee.RawTherapee[🐧]
 // ===========================
 
 // ===========================
@@ -345,8 +345,8 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 |image:https://img.shields.io/github/stars/scribusproject/scribus?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/scribusproject/scribus
-|link:https://community.chocolatey.org/packages/scribus[🍫]
-
+|link:https://community.chocolatey.org/packages/scribus[🍫] +
+link:https://flathub.org/apps/net.scribus.Scribus[🐧] +
 link:https://formulae.brew.sh/cask/scribus[🍺]
 // ===========================
 
@@ -375,6 +375,20 @@ link:https://formulae.brew.sh/cask/scribus[🍺]
 // 🔍
 |https://github.com/chocolatey/choco/
 |link:https://chocolatey.org/install[📦]
+// ===========================
+
+// ===========================
+//            Flathub
+// ===========================
+// ℹ️
+|link:https://flathub.org/[Flathub]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/9/96/Flathub_Logo_2023.svg[Flathub,64]
+// ⭐
+|image:https://img.shields.io/github/stars/flathub/flathub?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/flathub/flathub
+|link:https://flathub.org/setup[📦]
 // ===========================
 
 // ===========================
@@ -458,8 +472,8 @@ https://github.com/homebrew/brew/
 |image:https://img.shields.io/github/stars/laurent22/joplin?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/laurent22/joplin
-|link:https://community.chocolatey.org/packages/joplin[🍫]
-
+|link:https://community.chocolatey.org/packages/joplin[🍫] +
+link:https://flathub.org/apps/net.cozic.joplin_desktop[🐧] +
 link:https://formulae.brew.sh/cask/joplin[🍺]
 // ===========================
 
@@ -476,8 +490,8 @@ link:https://formulae.brew.sh/cask/joplin[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/307[image:https://bestpractices.coreinfrastructure.org/projects/307/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/libreoffice/
-|link:https://community.chocolatey.org/packages/libreoffice-fresh[🍫]
-
+|link:https://community.chocolatey.org/packages/libreoffice-fresh[🍫] +
+link:https://flathub.org/apps/org.libreoffice.LibreOffice[🐧] +
 link:https://formulae.brew.sh/cask/libreoffice[🍺]
 // ===========================
 
@@ -494,8 +508,8 @@ link:https://formulae.brew.sh/cask/libreoffice[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/209[image:https://bestpractices.coreinfrastructure.org/projects/209/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/nextcloud/
-|link:https://community.chocolatey.org/packages/nextcloud-client[🍫]
-
+|link:https://community.chocolatey.org/packages/nextcloud-client[🍫] +
+link:https://flathub.org/apps/com.nextcloud.desktopclient.nextcloud[🐧] +
 link:https://formulae.brew.sh/cask/nextcloud[🍺]
 // ===========================
 
@@ -510,7 +524,8 @@ link:https://formulae.brew.sh/cask/nextcloud[🍺]
 |image:https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/notepad-plus-plus/notepad-plus-plus/
-|link:https://community.chocolatey.org/packages/notepadplusplus[🍫]
+|link:https://community.chocolatey.org/packages/notepadplusplus[🍫] +
+link:https://flathub.org/apps/com.notepadqq.Notepadqq[🐧]
 // ===========================
 
 // ===========================
@@ -526,8 +541,8 @@ link:https://formulae.brew.sh/cask/nextcloud[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/2141[image:https://bestpractices.coreinfrastructure.org/projects/2141/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://hg.mozilla.org/comm-central/
-|link:https://community.chocolatey.org/packages/thunderbird[🍫]
-
+|link:https://community.chocolatey.org/packages/thunderbird[🍫] +
+link:https://flathub.org/apps/org.mozilla.Thunderbird[🐧] +
 link:https://formulae.brew.sh/cask/thunderbird[🍺]
 // ===========================
 
@@ -569,8 +584,8 @@ link:https://formulae.brew.sh/cask/thunderbird[🍺]
 |image:https://img.shields.io/github/stars/obsproject?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/obsproject/
-|link:https://community.chocolatey.org/packages/obs-studio[🍫]
-
+|link:https://community.chocolatey.org/packages/obs-studio[🍫] +
+link:https://flathub.org/apps/com.obsproject.Studio[🐧] +
 link:https://formulae.brew.sh/cask/obs[🍺]
 // ===========================
 
@@ -612,8 +627,8 @@ link:https://formulae.brew.sh/cask/obs[🍺]
 |image:https://img.shields.io/github/stars/bitwarden?style=social[GitHub Repo stars]
 // 🔍
 |https://github.com/bitwarden/
-|link:https://community.chocolatey.org/packages/bitwarden[🍫]
-
+|link:https://community.chocolatey.org/packages/bitwarden[🍫] +
+link:https://flathub.org/apps/com.bitwarden.desktop[🐧] +
 link:https://formulae.brew.sh/cask/bitwarden[🍺]
 // ===========================
 
@@ -630,8 +645,8 @@ link:https://formulae.brew.sh/cask/bitwarden[🍺]
 |link:https://bestpractices.coreinfrastructure.org/en/projects/6326[image:https://bestpractices.coreinfrastructure.org/projects/6326/badge[Open Source Security Foundation (OpenSSF) best practices badge]]
 
 https://github.com/keepassxreboot/keepassxc/
-|link:https://community.chocolatey.org/packages/keepassxc[🍫]
-
+|link:https://community.chocolatey.org/packages/keepassxc[🍫] +
+link:https://flathub.org/apps/org.keepassxc.KeePassXC[🐧] +
 link:https://formulae.brew.sh/cask/keepassxc[🍺]
 // ===========================
 

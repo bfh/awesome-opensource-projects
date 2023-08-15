@@ -411,7 +411,8 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 // 🔍
 |https://github.com/Beep6581/RawTherapee
 |link:https://community.chocolatey.org/packages/RawTherapee[🍫] +
-link:https://flathub.org/apps/com.rawtherapee.RawTherapee[🐧]
+link:https://flathub.org/apps/com.rawtherapee.RawTherapee[🐧] +
+link:https://formulae.brew.sh/cask/rawtherapee[🍺]
 // ===========================
 
 // ===========================

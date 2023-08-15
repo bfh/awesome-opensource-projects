@@ -30,6 +30,22 @@ toc::[]
 |🆕 Start
 
 // ===========================
+//            Audacity
+// ===========================
+// ℹ️
+|link:https://www.audacityteam.org/[Audacity]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/e/e2/Audacity_Logo_nofilter.svg[Audacity,64]
+// ⭐
+|image:https://img.shields.io/github/stars/audacity/audacity?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/audacity/audacity
+|link:https://community.chocolatey.org/packages/audacity[🍫] +
+https://flathub.org/apps/org.audacityteam.Audacity[🐧] +
+https://formulae.brew.sh/cask/audacity[🍺]
+// ===========================
+
+// ===========================
 //            MuseScore
 // ===========================
 // ℹ️

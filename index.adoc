@@ -62,6 +62,22 @@ link:https://formulae.brew.sh/cask/musescore[🍺]
 // ===========================
 
 // ===========================
+//            Kdenlive
+// ===========================
+// ℹ️
+|link:https://kdenlive.org[Kdenlive]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/1/18/Kdenlive_new_logo.png[Kdenlive,64]
+// ⭐
+|image:https://img.shields.io/github/stars/KDE/kdenlive?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/KDE/kdenlive
+|https://community.chocolatey.org/packages/kdenlive[🍫] +
+link:https://flathub.org/apps/org.kde.kdenlive[🐧] +
+link:https://formulae.brew.sh/cask/kdenlive[🍺]
+// ===========================
+
+// ===========================
 //            VLC
 // ===========================
 // ℹ️

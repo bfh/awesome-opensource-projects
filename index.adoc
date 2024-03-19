@@ -250,6 +250,20 @@ link:https://formulae.brew.sh/cask/jitsi[🍺]
 // ===========================
 
 // ===========================
+//            LimeSurvey
+// ===========================
+// ℹ️
+|link:https://www.limesurvey.org[LimeSurvey]
+// 🌅
+|image:https://upload.wikimedia.org/wikipedia/commons/d/d4/Limesurvey_logo.png[LimeSurvey,64]
+// ⭐
+|image:https://img.shields.io/github/stars/limesurvey?style=social[GitHub Repo stars]
+// 🔍
+|https://github.com/limesurvey
+|
+// ===========================
+
+// ===========================
 //            Signal
 // ===========================
 // ℹ️

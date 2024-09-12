@@ -660,7 +660,7 @@ link:https://formulae.brew.sh/cask/thunderbird[🍺]
 // ℹ️
 |link:https://obsproject.com[OBS Studio]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/240px-Open_Broadcaster_Software_Logo.png[OBS Studio,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg[OBS Studio,64]
 // ⭐
 |image:https://img.shields.io/github/stars/obsproject?style=social[GitHub Repo stars]
 // 🔍

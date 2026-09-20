@@ -99,7 +99,7 @@ link:https://formulae.brew.sh/cask/kdenlive[🍺]
 // ℹ️
 |link:https://musescore.org[MuseScore]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/MuseScore_logo.png/240px-MuseScore_logo.png[MuseScore,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/1/1d/Musescore_icon.svg[MuseScore,64]
 // ⭐
 |image:https://img.shields.io/github/stars/musescore?style=social[GitHub Repo stars]
 // 🔍

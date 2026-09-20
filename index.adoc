@@ -369,7 +369,7 @@ link:https://formulae.brew.sh/cask/gimp[🍺]
 // ℹ️
 |link:http://inkscape.org[Inkscape]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/128px-Inkscape_Logo.svg.png[Inkscape,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg[Inkscape,64]
 // ⭐
 |image:https://img.shields.io/gitlab/stars/inkscape/inkscape?style=social[GitLab stars]
 
@@ -387,7 +387,7 @@ link:https://formulae.brew.sh/cask/inkscape[🍺]
 // ℹ️
 |link:https://krita.org[Krita]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/240px-Calligrakrita-base.svg.png[Krita,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg[Krita,64]
 // ⭐
 |image:https://img.shields.io/gitlab/stars/graphics/krita?gitlab_url=https%3A%2F%2Finvent.kde.org&style=social[GitLab stars]
 
@@ -419,7 +419,7 @@ link:https://formulae.brew.sh/cask/krita[🍺]
 // ℹ️
 |link:http://rawtherapee.com[RawTherapee]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RawTherapee_logo-circle.svg/240px-RawTherapee_logo-circle.svg.png[RawTherapee,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/0/0c/RawTherapee_logo-circle.svg[RawTherapee,64]
 // ⭐
 |image:https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social[GitHub Repo stars]
 // 🔍
@@ -464,7 +464,7 @@ link:https://formulae.brew.sh/cask/scribus[🍺]
 // ℹ️
 |link:https://chocolatey.org[Chocolatey]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Chocolatey_logo.svg/320px-Chocolatey_logo.svg.png[Chocolatey,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/6/63/Chocolatey_logo.svg[Chocolatey,64]
 // ⭐
 |image:https://img.shields.io/github/stars/chocolatey/choco?style=social[GitHub Repo stars]
 // 🔍
@@ -492,7 +492,7 @@ link:https://formulae.brew.sh/cask/scribus[🍺]
 // ℹ️
 |link:https://brew.sh[Homebrew]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Homebrew_logo.svg/159px-Homebrew_logo.svg.png[Homebrew,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/9/95/Homebrew_logo.svg[Homebrew,64]
 // ⭐
 |image:https://img.shields.io/github/stars/homebrew/brew?style=social[GitHub Repo stars]
 // 🔍
@@ -629,7 +629,7 @@ link:https://flathub.org/apps/com.notepadqq.Notepadqq[🐧]
 // ℹ️
 |link:https://www.thunderbird.net[Thunderbird]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thunderbird_2023_icon.png/240px-Thunderbird_2023_icon.png[Thunderbird,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/2/2f/Thunderbird_2023_icon.svg[Thunderbird,64]
 // ⭐
 |image:https://img.shields.io/github/stars/mozilla/releases-comm-central?style=social[GitHub Repo stars]
 // 🔍
@@ -748,7 +748,7 @@ link:https://formulae.brew.sh/cask/bitwarden[🍺]
 // ℹ️
 |link:https://keepassxc.org[KeePassXC]
 // 🌅
-|image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/240px-KeePassXC.svg.png[KeePassXC,64]
+|image:https://upload.wikimedia.org/wikipedia/commons/c/c1/KeePassXC.svg[KeePassXC,64]
 // ⭐
 |image:https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=social[GitHub Repo stars]
 // 🔍

@@ -223,11 +223,11 @@ link:https://formulae.brew.sh/cask/firefox[🍺]
 // ℹ️
 |link:https://www.element.io/[Element]
 // 🌅
-|image:https://github.com/vector-im/logos/raw/master/element/Element%20Logomark%20%20-%20Transparent%20-%2064px.png[Element,64]
+|image:https://github.com/element-hq/logos/raw/master/element/Element%20Logomark%20%20-%20Transparent%20-%2064px.png[Element,64]
 // ⭐
-|image:https://img.shields.io/github/stars/vector-im?style=social[GitHub Repo stars]
+|image:https://img.shields.io/github/stars/element-hq?style=social[GitHub Repo stars]
 // 🔍
-|https://github.com/vector-im
+|https://github.com/element-hq
 |link:https://community.chocolatey.org/packages/element-desktop[🍫] +
 link:https://flathub.org/apps/im.riot.Riot[🐧] +
 link:https://formulae.brew.sh/cask/element[🍺]
